@@ -6,7 +6,6 @@ public class EvenOrOdd {
 
 	public static void main(String[] args) {
 
-		Scanner sc = new Scanner(System.in);
 		int number = 5;
 		
 		if(number%2==0) {
@@ -15,7 +14,6 @@ public class EvenOrOdd {
 		else {
 			System.out.println("Odd Number");
 		}
-		sc.close();
 	}
 
 }
