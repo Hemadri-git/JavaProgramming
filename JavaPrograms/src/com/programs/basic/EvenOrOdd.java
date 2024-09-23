@@ -1,6 +1,5 @@
 package com.programs.basic;
 
-import java.util.Scanner;
 
 public class EvenOrOdd {
 
