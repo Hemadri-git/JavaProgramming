@@ -9,7 +9,7 @@ public class CompoundInterest {
 		
 		double amount = principle * ((1+rate/100)*(1+rate/100)*(1+rate/100));
 		
-		System.out.println("Compound Instrest :-" + amount);
+		System.out.println("Compound Instrest : " + amount);
 		
 		
 	}
