@@ -1,4 +1,4 @@
-/*Write a java program to find the profit and loss by following the formula
+/*Write a java program to find the profit and loss by following the formula 
 Profit and loss Formulas – 
 Profit = SP – CP
 Loss = CP – SP
