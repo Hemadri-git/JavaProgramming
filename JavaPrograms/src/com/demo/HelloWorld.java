@@ -1,10 +1,18 @@
 package com.demo;
 
-public class HelloWorld {
-	
-	public static void main(String[] args) {
-		
-		System.out.println("Hello world!");
+import java.util.Scanner;
+
+public class HelloWorld 
+{
+	public static void main(String[] args) 
+	{
+		int x = 1;
+
+		while(x>=-10)
+		{
+			System.out.println(x);
+			x--;
+		}
 	}
 
 }
