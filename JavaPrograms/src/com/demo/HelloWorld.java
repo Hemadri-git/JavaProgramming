@@ -9,6 +9,7 @@ public class HelloWorld {
 
 		PalindromeClass.check(121);
 		FactorialClass.check(5);
+		
 	}
 
 }
