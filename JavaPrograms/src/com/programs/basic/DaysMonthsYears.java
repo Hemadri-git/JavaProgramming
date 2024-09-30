@@ -20,6 +20,7 @@ public class DaysMonthsYears {
 	    System.out.println("years: " + years);
 	    System.out.println("months: " + months);
 	    System.out.println("days: " + days);
+	    in.close();
 	    
 	    
 	    

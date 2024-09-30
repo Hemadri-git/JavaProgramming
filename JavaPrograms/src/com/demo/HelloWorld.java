@@ -1,18 +1,14 @@
 package com.demo;
 
-import java.util.Scanner;
+import com.programs.resuable_code_demo.*;
 
-public class HelloWorld 
-{
+public class HelloWorld {
+
 	public static void main(String[] args) 
 	{
-		int x = 1;
 
-		while(x>=-10)
-		{
-			System.out.println(x);
-			x--;
-		}
+		PalindromeClass.check(121);
+		FactorialClass.check(5);
 	}
 
 }

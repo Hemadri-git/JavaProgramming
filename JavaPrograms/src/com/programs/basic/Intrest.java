@@ -15,6 +15,7 @@ public class Intrest {
 		System.out.println("Simple Intrest:  "+ simpleIntrest);
 		double total = simpleIntrest + principal;
 		System.out.println("Total Intrest : "+ total);
+		in.close();
 		
 	}
 }
