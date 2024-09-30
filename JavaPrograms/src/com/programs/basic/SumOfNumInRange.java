@@ -9,7 +9,7 @@ public class SumOfNumInRange {
 		
 		int number = 100;
 		int sum = 0;
-		for(int i = 0; i<=100; i++) {
+		for(int i = 0; i<=number; i++) {
 			sum = sum + i;
 		}
 		System.out.println("The sum of the first 100 natural numbers is: " + sum);
