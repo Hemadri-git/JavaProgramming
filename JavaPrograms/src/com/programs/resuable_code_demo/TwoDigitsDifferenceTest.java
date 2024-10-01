@@ -13,12 +13,18 @@ Create an ELC class Main to test the application*/
 
 package com.programs.resuable_code_demo;
 
+import java.util.Scanner;
+
 public class TwoDigitsDifferenceTest {
 
 	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter number: ");
+		int num = sc.nextInt();
 
-		int diffOfDigits = TwoDigitsDifference.getDiffOfDigits(95);
-		System.out.println("Two Digits Difference is: "+ diffOfDigits);
+		int diffOfDigits = TwoDigitsDifference.getDiffOfDigits(num);
+		System.out.println("Difference is: "+ diffOfDigits);
+		sc.close();
 	}
 
 }
