@@ -1,5 +1,5 @@
 package com.programs.resuable_code_demo;
-import com.demo.*;
+
 
 /*ELC :
 -----
