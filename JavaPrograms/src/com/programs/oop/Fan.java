@@ -10,6 +10,7 @@ public class Fan {
 		System.out.println(name);
 		System.out.println(coil);
 		System.out.println(wings);
+		System.out.println("--------------------------");
 	}
 	
 	public void switchOn() {
