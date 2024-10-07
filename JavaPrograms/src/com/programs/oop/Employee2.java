@@ -43,7 +43,4 @@ public class Employee2 {
 	
 	
 }
-/*
-NoOfProject is more than 5 and less that 10 then add 5000.
-NoOfProject is more than 10 and less that 20 then add 10000.
-NoOfProject is more than 20 then add 15000. */
+
