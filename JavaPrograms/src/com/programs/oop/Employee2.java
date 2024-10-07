@@ -2,11 +2,11 @@ package com.programs.oop;
 
 public class Employee2 {
 
-	 String firstName;
-	 String lastName;
-	 int employeeId;
-	 double salary;
-	 int noOfProject;
+	private String firstName;
+	private String lastName;
+	private int employeeId;
+	private double salary;
+	private int noOfProject;
 	
 	public void setEmployeeData(String firstName, String lastName, int employeeId, double salary,  int noOfProject) {
 		
