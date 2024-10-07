@@ -8,5 +8,7 @@ public class Employee2Test {
 		
 		emp1.setEmployeeData("Hemadri", "Bathula", 1270, 50000, 23);
 		System.out.println(emp1.displayDetails());
+		
+		
 	}
 }
