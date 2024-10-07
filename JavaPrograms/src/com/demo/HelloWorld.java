@@ -1,14 +1,17 @@
 package com.demo;
 
-import com.programs.resuable_code_demo.*;
-
 public class HelloWorld {
+	
+
 
 	public static void main(String[] args) 
 	{
 
-		PalindromeClass.check(121);
-		FactorialClass.check(5);
+		
+        Employee e1 = new Employee();
+        e1.setEmployee(1211, "hemadri");
+        System.out.println(e1);
+		
 		
 	}
 
